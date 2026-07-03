@@ -42,3 +42,19 @@ cd packet-ml-detector
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+## 🙏 Благодарности
+
+Этот проект использует следующие открытые библиотеки:
+
+| Библиотека | Лицензия | Назначение |
+| :--- | :--- | :--- |
+| [Scapy](https://scapy.net/) | GPLv2 | Захват и анализ пакетов |
+| [Scikit-learn](https://scikit-learn.org/) | BSD 3-Clause | Машинное обучение (Isolation Forest) |
+| [Streamlit](https://streamlit.io/) | Apache 2.0 | Интерактивный дашборд |
+| [Plotly](https://plotly.com/) | MIT | Интерактивные графики |
+| [Pandas](https://pandas.pydata.org/) | BSD 3-Clause | Обработка данных |
+| [NumPy](https://numpy.org/) | BSD 3-Clause | Математические вычисления |
+
+Все права принадлежат их авторам.
