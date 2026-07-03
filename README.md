@@ -58,3 +58,15 @@ pip install -r requirements.txt
 | [NumPy](https://numpy.org/) | BSD 3-Clause | Математические вычисления |
 
 Все права принадлежат их авторам.
+
+
+## 📄 Лицензия
+
+Этот проект распространяется под лицензией **GNU General Public License v3.0**.
+
+Подробнее см. в файле [LICENSE](LICENSE) или на сайте [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+---
+
+**Автор:** Angel-Sora  
+**GitHub:** [https://github.com/Angel-Sora](https://github.com/Angel-Sora)
