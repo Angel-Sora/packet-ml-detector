@@ -1,0 +1,11 @@
+{
+  "interface": "\\Device\\NPF_Loopback",
+  "packet_limit": 1000,
+  "ml": {
+    "contamination": 0.01,
+    "features": ["packet_len", "ttl", "tcp_win", "payload_size", "ip_frag", "ip_len"]
+  },
+  "alerts": {
+    "log_file": "alerts.log"
+  }
+}
